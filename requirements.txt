@@ -24,3 +24,5 @@ httpx
 
 streamlit
 torchvision
+
+PyMuPDF
